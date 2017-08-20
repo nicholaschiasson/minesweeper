@@ -243,8 +243,8 @@ function setDifficulty() {
         break;
       case 2:
         // hard
-        rows = 30;
-        columns = 16;
+        rows = 16;
+        columns = 30;
         mineCount = 99;
         break;
       default:
